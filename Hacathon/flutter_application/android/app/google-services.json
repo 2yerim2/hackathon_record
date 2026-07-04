@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097900532875",
+    "project_id": "hacathon-project-97d09",
+    "storage_bucket": "hacathon-project-97d09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097900532875:android:a3f254433e504de2a7608e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097900532875-hcbj34ptslocavvcp1pdgfmp64tg4dd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYz2IPrATWl33-3fanFzFEVCzoUeUYgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097900532875-hcbj34ptslocavvcp1pdgfmp64tg4dd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
